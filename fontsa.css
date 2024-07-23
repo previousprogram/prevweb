@@ -1,0 +1,89 @@
+@charset "utf-8";
+
+@font-face {
+  font-family: "aurix";
+  src: url("fonts/aurix/aurixfree.woff2") format("woff2"),
+    url("fonts/aurix/aurixfree.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "mostest550";
+  src: url("fonts/mostest-mono/MostestMonoTest-550.woff2") format("woff2"),
+    url("fonts/mostest-mono/MostestMonoTest-550.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "mostest825";
+  src: url("fonts/mostest-mono/MostestMonoTest-825.woff2") format("woff2"),
+    url("fonts/mostest-mono/MostestMonoTest-825.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "mostest1100";
+  src: url("fonts/mostest-mono/MostestMonoTest-1100.woff2") format("woff2"),
+    url("fonts/mostest-mono/MostestMonoTest-1100.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "mostest1375";
+  src: url("fonts/mostest-mono/MostestMonoTest-1375.woff2") format("woff2"),
+    url("fonts/mostest-mono/MostestMonoTest-1375.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "mostest1650";
+  src: url("fonts/mostest-mono/MostestMonoTest-1650.woff2") format("woff2"),
+    url("fonts/mostest-mono/MostestMonoTest-1650.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "mostest1925";
+  src: url("fonts/mostest-mono/MostestMonoTest-1925.woff2") format("woff2"),
+    url("fonts/mostest-mono/MostestMonoTest-1925.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "mostest2200";
+  src: url("fonts/mostest-mono/MostestMonoTest-2200.woff2") format("woff2"),
+    url("fonts/mostest-mono/MostestMonoTest-2200.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "sevastopol";
+  src: url("fonts/sevastopol/Sevastopol-Interface.woff2") format("woff2"),
+    url("fonts/sevastopol/Sevastopol-Interface.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "daydream";
+  src: url("fonts/daydream/Daydream.woff2") format("woff2"),
+    url("fonts/daydream/Daydream.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "pixeloperator";
+  src: url("fonts/pixel-operator/PixelOperator.woff2") format("woff2"),
+    url("fonts/pixel-operator/PixelOperator.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
