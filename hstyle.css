@@ -22,14 +22,19 @@ body {
   width: 1100px;
   height: 3000px;
   /*otherwise width could be like 60% if you wanna adapt for different screens...*/
-  background-image: linear-gradient(200deg, rgb(117, 61, 221), rgb(0, 25, 71));
+  background-image: linear-gradient(
+    190deg,
+    rgb(1, 90, 47),
+    rgb(1, 32, 17),
+    rgb(0, 0, 0)
+  );
   color: whitesmoke;
   border: 3px solid whitesmoke;
 }
 
 header {
   height: 200px;
-  width: 1100px;
+  width: 1095px;
   border-bottom: 3px solid whitesmoke;
   float: left;
 }
@@ -54,6 +59,22 @@ header {
   margin-top: 0px;
   padding-right: 5px;
   margin-bottom: 10px;
+}
+
+/*whats in the body*/
+
+.intro {
+  display: flex;
+  height: 150px;
+  width: 500px;
+  padding-left: 20px;
+  padding-top: 20px;
+  float: left;
+}
+
+#ellyfishe {
+  float: left;
+  height: 350px;
 }
 
 /*site navigation*/
@@ -115,5 +136,5 @@ header {
 
 .downer {
   background-color: black;
-  height: 400px;
+  height: 4000px;
 }

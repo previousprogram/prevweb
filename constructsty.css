@@ -9,17 +9,36 @@
 }
 
 body {
-  background-color: black;
+  background-image: url("images/stars.png");
+  background-repeat: repeat;
   display: flex;
   justify-content: center;
+  text-align: center;
+  font-family: "daydream";
+  color: gold;
 }
 
 #constr {
-  margin: auto;
   height: 200px;
-  width: 200px;
 }
 
 a:link {
   color: white;
+  background-color: transparent;
+  text-decoration: none;
+  font-family: "daydream";
+}
+
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+  font-family: "daydream";
+}
+
+a:hover {
+  color: limegreen;
+  background-color: transparent;
+  text-decoration: none;
+  font-family: "daydream";
 }
