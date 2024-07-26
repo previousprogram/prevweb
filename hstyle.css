@@ -2,6 +2,12 @@
 
 @import url("fontsa.css");
 
+* {
+  margin: 0;
+  box-sizing: border-box;
+  color-scheme: dark;
+}
+
 body {
   background-image: url("images/tv.png");
   background-repeat: repeat;
@@ -16,11 +22,7 @@ body {
   width: 1100px;
   height: 3000px;
   /*otherwise width could be like 60% if you wanna adapt for different screens...*/
-  background-image: linear-gradient(
-    200deg,
-    rgb(66, 128, 241),
-    rgb(153, 108, 238)
-  );
+  background-image: linear-gradient(200deg, rgb(117, 61, 221), rgb(0, 25, 71));
   color: whitesmoke;
   border: 3px solid whitesmoke;
 }
@@ -81,6 +83,24 @@ header {
 
 .navcontent {
   margin-left: 5px;
+}
+
+.navcontent a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.navcontent a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.navcontent a:hover {
+  color: limegreen;
+  background-color: transparent;
+  text-decoration: underline;
 }
 
 .down {
